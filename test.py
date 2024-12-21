@@ -4,4 +4,5 @@ user = input("please enter your name: ?")
 
 if user == "saranga":
     print("wow you talented person every keep ging ")
+    print("wow you talented person every keep ging ")
 print("hello world")
